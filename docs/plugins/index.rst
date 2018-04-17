@@ -244,6 +244,8 @@ Here are a few of the plugins written by the beets community:
 
 * `beets-popularity`_ fetches popularity values from Spotify.
 
+* `txt-import`_ allows for users to use formatted .txt files to tag their music files in beets.
+
 .. _beets-check: https://github.com/geigerzaehler/beets-check
 .. _copyartifacts: https://github.com/sbarakat/beets-copyartifacts
 .. _dsedivec: https://github.com/dsedivec/beets-plugins
@@ -262,4 +264,5 @@ Here are a few of the plugins written by the beets community:
 .. _whatlastgenre: https://github.com/YetAnotherNerd/whatlastgenre/tree/master/plugin/beets
 .. _beets-usertag: https://github.com/igordertigor/beets-usertag
 .. _beets-popularity: https://github.com/abba23/beets-popularity
+.. _txt-import: https://github.com/stoits/beets-plugins
 
